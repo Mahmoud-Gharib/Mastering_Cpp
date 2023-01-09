@@ -1,2 +1,2 @@
 <h1 align="center"> Mastering_Cpp <h1>
-![image](https://user-images.githubusercontent.com/62407045/211414772-dbb7da88-e762-4190-a7e0-c868112a8001.png)
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F0f03b129a4ccdb238d78e13892db16d73c6c00fc29c5e00f49cec85636e0c888%2F68747470733a2f2f776562636f646566742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f31322f776562636f646566742d632e706e67&imgrefurl=https%3A%2F%2Fgithub.com%2Fbhagat-hrishi%2FCPP&tbnid=24y_4UR3X09-VM&vet=12ahUKEwjx2s-Iu7v8AhVBuCcCHbsLDu0QMygOegUIARDZAQ..i&docid=K7QHeWg7SQkM_M&w=1211&h=741&q=cpp%20programming%20logo&ved=2ahUKEwjx2s-Iu7v8AhVBuCcCHbsLDu0QMygOegUIARDZAQ
